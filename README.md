@@ -4,7 +4,7 @@ automate your Fedora dev setup
 I strongly encourage forking!
 
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/patrickleet/fedora-dev-setup/master/setup.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/teebszet/fedora-dev-setup/master/setup.sh)"
 ```
 
 # Development Setup
